@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcar_shop"]=self["webpackChunkcar_shop"]||[]).push([[908],{908:function(n,a,r){r.r(a),r.d(a,{default:function(){return f}});var s=r(252);const u={class:"about"},t=(0,s._)("h1",null,"This is an about page",-1),c=[t];function e(n,a){return(0,s.wg)(),(0,s.iD)("div",u,c)}var o=r(744);const i={},h=(0,o.Z)(i,[["render",e]]);var f=h}}]);
+//# sourceMappingURL=908.5cc2c167.js.map
